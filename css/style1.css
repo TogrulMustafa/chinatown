@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.bg-header{
+    background: url("../img/1.jpg") no-repeat center;
+    background-size: cover;
+}
+.bg-e74c3c{
+    background-color: #e74c3c;
+}
+.overlay{
+    background-color: #fff;
+    opacity: 0.5;
+}
+.border-f1968c{
+    border: 5px solid #f1968c;
+}
+.ff-Rokkit{
+    font-family: 'Rokkitt', serif;
+}
+.color-e74c3c{
+    color: #e74c3c !important;
+}
+.w80{
+    width: 80px;
+}
+.h-30{
+    height: 30px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-sm-10{
+    font-size: 10px;
+}
